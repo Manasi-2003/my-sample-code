@@ -1,0 +1,3 @@
+Git is one of the most popular version control tools and it is widely ude to track and manage all the configuration files. It is simple and easy to use compared to rest of the version control tools.
+
+It is known for its speed, flexibility and the ability to handle both small and large projects effectively.
